@@ -14,7 +14,7 @@ I am a M.S. student at the [Artificial Intelligence And Robotics Lab.](airlab.kh
 
 ## News
 
-- **[Dec. 2024]** One paper about Camera-LiDAR Calibration is accepted to IEEE Robotics and Automation Letters (RA-L).
+- **[Dec. 2024]** One paper about Camera-LiDAR Calibration is accepted to IEEE Robotics and Automation Letters (RA-L), 2024.
 - **[Mar. 2024]** I started M.S. at [Artificial Intelligence And Robotics Lab.](airlab.khu.ac.kr), Department of Software Convergence, Kyung Hee University.
 
 {% include_relative _includes/publications.md %}
