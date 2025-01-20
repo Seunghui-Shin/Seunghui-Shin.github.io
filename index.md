@@ -4,19 +4,18 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a M.S. student at the [Artificial Intelligence And Robotics Lab.](airlab.khu.ac.kr), Department of Software Convergence, Kyung Hee University.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Computer Vision:** 6-DoF object Pose Estimation
+- **Machine Learning:** Domain Generalization
+- **Robotics:** Hand-Eye Calibration, Deep Reinforcement Learning, In-Hand Manipulation
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Dec. 2024]** One paper about Camera-LiDAR Calibration is accepted to IEEE Robotics and Automation Letters (RA-L).
+- **[Mar. 2024]** I started M.S. at [Artificial Intelligence And Robotics Lab.](airlab.khu.ac.kr), Department of Software Convergence, Kyung Hee University.
 
 {% include_relative _includes/publications.md %}
 
