@@ -1,4 +1,4 @@
-main:
+journal:
   - title: DRIM: Depth Restoration with Interference Mitigation in Multiple LiDAR Depth Cameras
     authors: <strong>Seunghui Shin</strong>, Jaeyun Jang, Sundong Park, Hyoseok Hwang* (*Corresponding authors)
     conference_short: Journal
