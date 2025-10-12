@@ -1,4 +1,11 @@
 main:
+  - title: DRIM: Depth Restoration with Interference Mitigation in Multiple LiDAR Depth Cameras
+    authors: <strong>Seunghui Shin</strong>, Jaeyun Jang, Sundong Park, Hyoseok Hwang* (*Corresponding authors)
+    conference_short: Journal
+    conference: IEEE Robotics and Automation Letters <strong>(RA-L)</strong>, 2025.
+    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11197899
+    code: https://sites.google.com/view/drim-dataset/
+    image: ./assets/img/CLEC.png
 
   - title: Camera-LiDAR Extrinsic Calibration using Constrained Optimization with Circle Placement
     authors: Daeho Kim, <strong>Seunghui Shin</strong>, Hyoseok Hwang* (*Corresponding authors)
