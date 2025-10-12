@@ -4,7 +4,7 @@ main:
     conference_short: Journal
     conference: IEEE Robotics and Automation Letters <strong>(RA-L)</strong>, 2025.
     pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11197899
-    code: https://sites.google.com/view/drim-dataset/
+    code: https://sites.google.com/view/drim-dataset
     image: ./assets/img/DRIM.png
 
   - title: Camera-LiDAR Extrinsic Calibration using Constrained Optimization with Circle Placement
