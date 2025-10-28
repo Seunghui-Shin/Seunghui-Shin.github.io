@@ -1,5 +1,13 @@
 main:
-  - title: "DRIM: Depth Restoration with Interference Mitigation in Multiple LiDAR Depth Cameras"
+  - title: Squeezing the Last Drop of Accuracy: Hand-Eye Calibration via Deep Reinforcement Learning-Guided Pose Tuning
+    authors: <strong>Seunghui Shin</strong>, Daeho Kim, Hyoseok Hwang* (*Corresponding authors)
+    conference_short: Journal
+    conference: IEEE Robotics and Automation Letters <strong>(RA-L)</strong>, 2025.
+    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11217188
+    code: https://airlabkhu.github.io/Squeezing-HEC/
+    image: ./assets/img/HEC.png
+
+  - title: "DRIM: Depth Restoration With Interference Mitigation in Multiple LiDAR Depth Cameras"
     authors: <strong>Seunghui Shin</strong>, Jaeyun Jang, Sundong Park, Hyoseok Hwang* (*Corresponding authors)
     conference_short: Journal
     conference: IEEE Robotics and Automation Letters <strong>(RA-L)</strong>, 2025.
