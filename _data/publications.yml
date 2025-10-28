@@ -1,5 +1,5 @@
 main:
-  - title: Squeezing the Last Drop of Accuracy: Hand-Eye Calibration via Deep Reinforcement Learning-Guided Pose Tuning
+  - title: "Squeezing the Last Drop of Accuracy: Hand-Eye Calibration via Deep Reinforcement Learning-Guided Pose Tuning"
     authors: <strong>Seunghui Shin</strong>, Daeho Kim, Hyoseok Hwang* (*Corresponding authors)
     conference_short: Journal
     conference: IEEE Robotics and Automation Letters <strong>(RA-L)</strong>, 2025.
