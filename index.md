@@ -14,6 +14,9 @@ I was a member of the [Artificial Intelligence & Robotics Lab.](https://airlab.k
 - **Robotics:** Hand-Eye Calibration, Deep Reinforcement Learning, In-Hand Manipulation
 - **Multimodal Learning:** Vision-Language Models, Spatial Reasoning
 
+## Projects
+- **[Oct. 2025 ~ Feb. 2026]** Development of AI-based 3D Vision Technology for Pallet Pocket Pose Recognition with T-ROBOTICS.
+
 ## News
 - **[Feb. 2026]** I received my M.S. from the Department of Software Convergence, Kyung Hee University.
 - **[Feb. 2026]** One paper about Keep it SymPL: Symbolic Projective Layout for Allocentric Spatial Reasoning in Vision-Language Models (CVPR), 2026.
