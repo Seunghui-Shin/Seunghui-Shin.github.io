@@ -12,6 +12,7 @@ I was a member of the [Artificial Intelligence & Robotics Lab.](https://airlab.k
 - **Computer Vision:** 6-DoF object Pose Estimation
 - **Machine Learning:** Domain Generalization
 - **Robotics:** Hand-Eye Calibration, Deep Reinforcement Learning, In-Hand Manipulation
+- **Multimodal Learning:** Vision-Language Models, Spatial Reasoning
 
 ## News
 - **[Feb. 2026]** I received my M.S. from the Department of Software Convergence, Kyung Hee University.
