@@ -5,6 +5,7 @@ layout: homepage
 ## About Me
 
 I received my M.S. from the Department of Software Convergence, Kyung Hee University.
+
 I was a member of the [Artificial Intelligence And Robotics Lab.](https://airlab.khu.ac.kr/).
 
 ## Research Interests
