@@ -5,7 +5,7 @@ layout: homepage
 ## About Me
 
 I received my M.S. from the Department of Software Convergence, Kyung Hee University.
-I was a member of the [Artificial Intelligence And Robotics Lab.](airlab.khu.ac.kr).
+I was a member of the [Artificial Intelligence And Robotics Lab.](https://airlab.khu.ac.kr/).
 
 ## Research Interests
 
@@ -19,7 +19,7 @@ I was a member of the [Artificial Intelligence And Robotics Lab.](airlab.khu.ac.
 - **[Oct. 2025]** One paper about Squeezing the Last Drop of Accuracy: Hand-Eye Calibration via Deep Reinforcement Learning-Guided Pose Tuning (RA-L), 2025.
 - **[Oct. 2025]** One paper about DRIM: Depth Restoration With Interference Mitigation in Multiple LiDAR Depth Cameras (RA-L), 2025.
 - **[Dec. 2024]** One paper about Camera-LiDAR Calibration is accepted to IEEE Robotics and Automation Letters (RA-L), 2024.
-- **[Mar. 2024]** I started M.S. at [Artificial Intelligence And Robotics Lab.](airlab.khu.ac.kr), Department of Software Convergence, Kyung Hee University.
+- **[Mar. 2024]** I started M.S. at [Artificial Intelligence And Robotics Lab.](https://airlab.khu.ac.kr/), Department of Software Convergence, Kyung Hee University.
 
 {% include_relative _includes/publications.md %}
 
