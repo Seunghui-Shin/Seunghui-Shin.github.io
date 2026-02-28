@@ -1,9 +1,10 @@
 main:
-- title: "Keep it SymPL: Symbolic Projective Layout for Allocentric Spatial Reasoning in Vision-Language Models"
+  - title: "Keep it SymPL: Symbolic Projective Layout for Allocentric Spatial Reasoning in Vision-Language Models"
     authors: Jaeyun Jang, <strong>Seunghui Shin</strong>, Taeho Park, Hyoseok Hwang* (*Corresponding authors)
     conference_short: Conference
     conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2026.
     pdf: https://arxiv.org/abs/2602.19117
+    code: coming soon
     image: ./assets/img/SymPL.png
 
   - title: "Squeezing the Last Drop of Accuracy: Hand-Eye Calibration via Deep Reinforcement Learning-Guided Pose Tuning"
